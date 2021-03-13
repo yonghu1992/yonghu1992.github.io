@@ -1,0 +1,28 @@
+{
+  "name": "yonghu1992.github.io",
+  "version": "1.0.0",
+  "description": "yonghu1992个人博客",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonghu1992/yonghu1992.github.io.git"
+  },
+  "keywords": [
+    "yonghu1992",
+    "blog"
+  ],
+  "author": "yangyonghu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonghu1992/yonghu1992.github.io/issues"
+  },
+  "homepage": "https://github.com/yonghu1992/yonghu1992.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
